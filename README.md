@@ -25,5 +25,5 @@ Apresentações: Canva • Power Point
 ### 📫 Como me encontrar:
 
 - LinkedIn: [seulinkedin.com/in/seunome](https://seulinkedin.com)  
-- Email: [seuemail@email.com]  
+- Email: [vmcrangel@gmail.com]  
 
