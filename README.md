@@ -17,9 +17,11 @@
 
 Tecnologias que venho estudando e usando:
 
-Libguagens: Python • C • java  
-Visualização: power BI • SAS Viya • Excel
-Apresentações: Canva • Power Point  
+-Libguagens: Python • C • java  
+
+-Visualização: power BI • SAS Viya • Excel
+
+-Apresentações: Canva • Power Point  
 
 
 ### 📫 Como me encontrar:
