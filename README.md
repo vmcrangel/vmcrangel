@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Olá! Meu nome é Victor Rangel 
 
-<!--
-**vmcrangel/vmcrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência de Dados e Inteligência Artificial  
+📊 Apaixonado por dados, algoritmos e soluções inteligentes  
+🧠 Desenvolvendo projetos próprios em Ciência de Dados e IA
 
-Here are some ideas to get you started:
+### 🚀 Projeto em destaque:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **[Dashboard com Streamlit](https://github.com/vmcrangel/streamlit_app_vmcrangel)**  
+  Aplicação interativa feita com Streamlit para visualização de dados.
+
+### 🚀 Projetos em Desenvolvimento:
+
+- 📊 **Dashboard com Power BI**
+  aplicação interativa feita com Power BI para visualização de dados sobre finanças relacionadas a gastos mensais e anuais de condomínios.
+  Em breve!
+
+Tecnologias que venho estudando e usando:
+
+Libguagens: Python • C • java  
+Visualização: power BI • SAS Viya • Excel
+Apresentações: Canva • Power Point  
+
+
+### 📫 Como me encontrar:
+
+- LinkedIn: [seulinkedin.com/in/seunome](https://seulinkedin.com)  
+- Email: [seuemail@email.com]  
+
